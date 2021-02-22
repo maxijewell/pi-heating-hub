@@ -24,6 +24,7 @@
     table, th, td { border: 5px solid #080808; }
     th, td {  background-color: #1a1a1a; text-align: center;}
 </style>
+<title>Heating Hub</title>
 </head>
 <body class='pbody'>
     
